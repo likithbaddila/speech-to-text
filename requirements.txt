@@ -5,4 +5,3 @@ sounddevice
 openai
 pandas
 requests
-PortAudio
