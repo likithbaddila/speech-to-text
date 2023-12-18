@@ -1,0 +1,7 @@
+wavio
+streamlit
+pandas
+sounddevice
+openai
+pandas
+requests
